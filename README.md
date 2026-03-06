@@ -24,6 +24,7 @@ It includes small programs, examples, and exercises to strengthen my understandi
 ## 📂 Project Structure
 
 java-concepts/
+
 ├── basics
 ├── control-flow
 ├── methods
